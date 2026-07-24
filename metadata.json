@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Builder",
+  "description": "Generate structured, high-quality AI prompts effortlessly with customizable templates, tier management, unlock codes, saved prompt history, and Gmail integration for sending and drafting emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
